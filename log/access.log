@@ -1,0 +1,6 @@
+172.21.0.1 - - [17/Apr/2018:10:45:03 +0000] "GET / HTTP/1.1" 200 20490 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36" "-"
+172.21.0.1 - - [17/Apr/2018:10:45:03 +0000] "GET /bundle.css HTTP/1.1" 200 156081 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36" "-"
+172.21.0.1 - - [17/Apr/2018:10:45:03 +0000] "GET /lib.js HTTP/1.1" 200 215835 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36" "-"
+172.21.0.1 - - [17/Apr/2018:10:45:03 +0000] "GET /bundle.js HTTP/1.1" 200 44182 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36" "-"
+172.21.0.1 - - [17/Apr/2018:10:45:03 +0000] "GET /analytics.js HTTP/1.1" 200 408 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36" "-"
+172.21.0.1 - - [17/Apr/2018:10:45:04 +0000] "GET /favicon.png HTTP/1.1" 404 571 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36" "-"
